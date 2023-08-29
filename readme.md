@@ -25,3 +25,5 @@ Das Habe ich Gemacht;
 2: Programm welches eine random Zahl erstellt.
 3: Benutzer hat Input und kann Zahl erraten.
 4: Benutzer hat ein Ergebniss wie oft er raten musste.
+
+Ich habe viele Arbeitspakete geändert, da ich der Meinung war, ein Grosses Projekt sei besser als 4 kleine Projekte. Eigentlich habe ich Arbeitspaket 1,2 und 3 zusammengeführt und einen extra Schritt hinzugefügt was mein 4 Arbeitspaket darstellte. Ich habe mit einem normalen Zufallsgenerator angefangen und baute es auf mit Begrüssung und erraten der generierten Zahl und die Anzahl Versuche. Ich hatte viele Schwierigkeiten da ich mein Projekt im Onedrive gespeichert habe. Mittlerweile ist es auf der Festplatte und es macht keine Probleme mehr.
