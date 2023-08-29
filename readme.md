@@ -35,8 +35,8 @@ Ich habe das 4. Arbeitspaket geändert, da ich der Meinung war, ein Grosses Proj
 05.09.2023
 
  - [ ] Für das nächste Mal mache ich ein Programm welches die Wörte zählt, damit ich nicht nach jeder Lektion die Wörter selber zählen muss.
--  [] Ich lerne mehr Datatypen für C# kennen, damit ich effiezienter arbeiten kann und schreibe diese in einem Programm auf.
--  [] Auf Websites C# besser kennelernen.
--  [] Passwortgenerator erstellen.
+-  [ ] Ich lerne mehr Datatypen für C# kennen, damit ich effiezienter arbeiten kann und schreibe diese in einem Programm auf.
+-  [ ] Auf Websites C# besser kennelernen.
+-  [ ] Passwortgenerator erstellen.
 
 
