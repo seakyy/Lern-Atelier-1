@@ -34,9 +34,26 @@ Ich habe das 4. Arbeitspaket geändert, da ich der Meinung war, ein Grosses Proj
 ## Fein Planung
 05.09.2023
 
- - [ ] Für das nächste Mal mache ich ein Programm welches die Wörte zählt, damit ich nicht nach jeder Lektion die Wörter selber zählen muss.
--  [ ] Ich lerne mehr Datatypen für C# kennen, damit ich effiezienter arbeiten kann und schreibe diese in einem Programm auf.
--  [ ] Auf Websites C# besser kennelernen.
--  [ ] Passwortgenerator erstellen.
+ - [x] Für das nächste Mal mache ich ein Programm welches die Wörte zählt, damit ich nicht nach jeder Lektion die Wörter selber zählen muss.
+-  [x] Ich lerne mehr Datatypen für C# kennen, damit ich effiezienter arbeiten kann und schreibe diese in einem Projekt auf.
+-  [x] Auf Websites C# besser kennelernen.
+-  [x] Passwortgenerator erstellen.
+
+  Reflexion:
+  
+Zuersthabe ich mich auf LinkedIn und im Internet darüber informiert, was ein gutes Programm ausmacht. Heute habe ich ein vollständig funktionsfähiges Programm welches Input, Prozess und Output sauber verarbeitet. Ich habe etwa 1 Stunde mich über C# informiert. Die restliche Zeit habe ich darin verbracht meine beiden neue Programme zu schreiben und perfektionieren. Laut meinem selbst geschriebenem Wörter-Zähl-Maschine hat dieser Text bis zum letzten Satz 53 Wörter.
+Gerne kann ich bei Bedarf Ihnen beide Projekte auf Github hochladen.
+
+
+
+
+## Fein Planung
+12.09.2023
+
+- [ ] Mich das erste Mal mit Windows Forms auseinandersetzen.
+- [ ] Alte Projekte wie z.b Passwort-Generator ein einfaches Forms zu erstellen.
+- [ ] Ein Tic Tac Toe Spiel zu coden.
+- [ ] Probieren ein Tic Tac Toe Spiel mit Windows Form zu erstellen.
+
 
 
