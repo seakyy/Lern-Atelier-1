@@ -56,7 +56,7 @@ Gerne kann ich bei Bedarf Ihnen beide Projekte auf Github hochladen.
 - [x] Probieren ein Tic Tac Toe Spiel mit Windows Form zu erstellen.
       
 # Reflexion
-Die heutige Lektion war leider mit nicht so viel Erfolg. Ich konnte mich zwar gut mit Windows Forms auseinandersetzen, habe ein GUI für ein Tic Tac Toe spiel erstellt und dazu noch gecodet. Leider ist im Code ein kleiner Bug der aber auch meine Spiel-Oberfläche verändert. Ich probiere den Code noch zu debuggen. (53 Wörter) (Nichtmal Indische-Youtube Tutorials können mir helfen...)
+Die heutige Lektion war leider mit nicht so viel Erfolg. Ich konnte mich zwar gut mit Windows Forms auseinandersetzen, habe ein GUI für ein Tic Tac Toe spiel erstellt und dazu noch gecodet. Leider ist im Code ein kleiner Bug der aber auch meine Spiel-Oberfläche verändert. Ich probiere den Code noch zu debuggen. Meine "App" crast trotz Try-Catch Befehl.(61 Wörter) (Nichtmal Indische-Youtube Tutorials können mir weiterhelfen...)
 Gerne kann ich bei Bedarf Ihnen mein noch nicht fertiggestelltes Tic Tac Toe Game auf Github hochladen.
 
 
