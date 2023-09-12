@@ -39,7 +39,7 @@ Ich habe das 4. Arbeitspaket geändert, da ich der Meinung war, ein Grosses Proj
 -  [x] Auf Websites C# besser kennelernen.
 -  [x] Passwortgenerator erstellen.
 
-  Reflexion:
+ # Reflexion:
   
 Zuersthabe ich mich auf LinkedIn und im Internet darüber informiert, was ein gutes Programm ausmacht. Heute habe ich ein vollständig funktionsfähiges Programm welches Input, Prozess und Output sauber verarbeitet. Ich habe etwa 1 Stunde mich über C# informiert. Die restliche Zeit habe ich darin verbracht meine beiden neue Programme zu schreiben und perfektionieren. Laut meinem selbst geschriebenem Wörter-Zähl-Maschine hat dieser Text bis zum letzten Satz 53 Wörter.
 Gerne kann ich bei Bedarf Ihnen beide Projekte auf Github hochladen.
@@ -50,10 +50,23 @@ Gerne kann ich bei Bedarf Ihnen beide Projekte auf Github hochladen.
 ## Fein Planung
 12.09.2023
 
-- [ ] Mich das erste Mal mit Windows Forms auseinandersetzen.
+- [x] Mich das erste Mal mit Windows Forms auseinandersetzen.
 - [ ] Alte Projekte wie z.b Passwort-Generator ein einfaches Forms zu erstellen.
-- [ ] Ein Tic Tac Toe Spiel zu coden.
-- [ ] Probieren ein Tic Tac Toe Spiel mit Windows Form zu erstellen.
+- [x] Ein Tic Tac Toe Spiel zu coden.
+- [x] Probieren ein Tic Tac Toe Spiel mit Windows Form zu erstellen.
+      
+# Reflexion
+Die heutige Lektion war leider mit nicht so viel Erfolg. Ich konnte mich zwar gut mit Windows Forms auseinandersetzen, habe ein GUI für ein Tic Tac Toe spiel erstellt und dazu noch gecodet. Leider ist im Code ein kleiner Bug der aber auch meine Spiel-Oberfläche verändert. Ich probiere den Code noch zu debuggen. (53 Wörter)
+Gerne kann ich bei Bedarf Ihnen mein noch nicht fertiggestelltes Tic Tac Toe Game auf Github hochladen.
+
+
+## Fein Planung
+19.09.2023
+
+- [ ] Ich arbeite etwa 50 Minuten am Modul 431 und probiere wenn möglich 4 Aufträge abzuschliessen
+- [ ] Ich arbeite etwa 50 Minuten am Modul 319, ich lerne dann was Arrays sind und wie man sie benutzt.
+- [ ] Mein Tic Tac Toe game muss noch debugged und perfektioniert werden.
+- [ ] Falls übrige Zeit noch vorhanden ist wird an den Portfolio's weitergearbeitet
 
 
 
