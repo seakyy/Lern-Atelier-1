@@ -63,10 +63,20 @@ Gerne kann ich bei Bedarf Ihnen mein noch nicht fertiggestelltes Tic Tac Toe Gam
 ## Fein Planung
 19.09.2023
 
-- [ ] Ich arbeite etwa 50 Minuten am Modul 431 und probiere wenn möglich 4 Aufträge abzuschliessen
+- [x] Ich arbeite etwa 50 Minuten am Modul 431 und probiere wenn möglich 4 Aufträge abzuschliessen
 - [ ] Ich arbeite etwa 50 Minuten am Modul 319, ich lerne dann was Arrays sind und wie man sie benutzt.
-- [ ] Mein Tic Tac Toe game muss noch debugged und perfektioniert werden.
+- [x] Mein Tic Tac Toe game muss noch debugged und perfektioniert werden.
 - [ ] Falls übrige Zeit noch vorhanden ist wird an den Portfolio's weitergearbeitet
+
+# Reflexion
+Die heutigen Lektionen habe ich den Auftrag LA_431_1720 und 21 erledigt. Zwar habe ich ur 2 geschaft, aber die Aufträge waren recht lang und kompliziert. Es hatte 6 Teilaufgaben bei dennen man je 20-30 Minuten Zeit brauchte um sie zu bearbeiten. Mit Modul 319 habe ich mich nicht auseinandergesetzt, trotzdem weiss ich was Arrays sind und wie man sie einsetzt. Das Tic Tac Toe wurde nur ein bisschen debugged, es funktioniert zwar besser, aber immer noch nicht so wie ich es mir vorgestellt habe. Übrige Zeit gab es nicht. (89 Wörter)
+
+## Fein Planung
+26.09.2023
+
+-[ ]  Ich möchte noch am Modul 431 weiterarbeiten da wir nächste Woche unsere Abgabe haben. Am besten wären die Aufträge 23-25 zu lösen.
+-[ ]  Mein Tic Tac Toe Game endgültig zu debuggen.
+-[ ]  Das Interface vom tic Tac Toe besser zu gestalten und anzupassen, wie z.B farbige Zeichen, besser Hintergrund usw.
 
 
 
