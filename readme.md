@@ -75,9 +75,9 @@ Die heutigen Lektionen habe ich den Auftrag LA_431_1720 und 21 erledigt. Zwar ha
 26.09.2023
 (Nur 3 Arbeitspackete)
 
--[ ]  Ich möchte noch am Modul 431 weiterarbeiten, da wir nächste Woche unsere Abgabe haben. Am besten wären die Aufträge 25-27 zu lösen oder das Portfolio fertig schreiben.
--[ ]  Mein Tic Tac Toe Game endgültig zu debuggen.
--[ ]  Das Interface vom Tic Tac Toe Game besser zu gestalten und anzupassen, wie z.B farbige Zeichen, besser Hintergrund usw.
+- [ ]  Ich möchte noch am Modul 431 weiterarbeiten, da wir nächste Woche unsere Abgabe haben. Am besten wären die Aufträge 25-27 zu lösen oder das Portfolio fertig schreiben.
+- [ ]  Mein Tic Tac Toe Game endgültig zu debuggen.
+- [ ]  Das Interface vom Tic Tac Toe Game besser zu gestalten und anzupassen, wie z.B farbige Zeichen, besser Hintergrund usw.
 
 
 
