@@ -76,8 +76,24 @@ Die heutigen Lektionen habe ich den Auftrag LA_431_1720 und 21 erledigt. Zwar ha
 (Nur 3 Arbeitspackete)
 
 - [ ]  Ich möchte noch am Modul 431 weiterarbeiten, da wir nächste Woche unsere Abgabe haben. Am besten wären die Aufträge 25-27 zu lösen oder das Portfolio fertig schreiben.
-- [ ]  Mein Tic Tac Toe Game endgültig zu debuggen.
-- [ ]  Das Interface vom Tic Tac Toe Game besser zu gestalten und anzupassen, wie z.B farbige Zeichen, besser Hintergrund usw.
+- [x]  Mein Tic Tac Toe Game endgültig zu debuggen.
+- [x]  Das Interface vom Tic Tac Toe Game besser zu gestalten und anzupassen, wie z.B farbige Zeichen, besser Hintergrund usw.
+
+# Reflexion
+Heute gab es grosser Änderungen. Unser Modul 431 wurde um 2 Wochen verschoben. Somit habe ich mich mehr fürs Programmieren konzentriert und habe gar nicht weitergearbeitet. Dafür gelang es mir heute mein Tic Tac Toe endlich zu debuggen. Die Buttons sind nicht mehr disabled und funktionieren nach dem man auf "New Game" klickt. Ich habe auch versucht 2 "Spielodi" zu programmieren, aber ich bin noch am Anfang, deshalb ist der Spielmodus 4x4 noch in Entwicklung. Das standart 3x3 funktioniert perfekt, die Knöpfe ändern auch ihre Farbe bei einem Gewinner und setzen sich selber zurück. (94 Wörter)
+
+
+
+### Reflexion
+
+In der ersten Lernperiode habe ich mit einem einfachen Input, Prozess, Output Programm angefangen was sehr gut funktioniert hat. Nachdem habe ich mich oft mit C# detaillierter auseinandergesetzt. Ich habe gelernt für was und wie man Arrays einsetzt. Diese habe ich dann später oft in meinem Tic Tac Toe Game gebraucht, um es übersichtlicher zu machen. Auf die Idee ein Game zu programmieren ohne grosse Vorkenntnisse bin ich erst gekommen, als ich gesehen habe das meine Mitschüler einen Taschenrechner programmieren mit Windows Forms. Ich habe einen ganzen Vormittag damit verbracht ein GUI für mein Game zu erstellen. Das war an sich nicht so schwierig da man die Elemente nur hineinziehen musste. Was aber herausfordernd war, waren die Events den einzelnen Buttons zuzuweisen und zu bestimmen, was sie ausführen. Das Coden war zwar anstrengend aber noch nicht der anstrengendste Teil. Der anstrengendste Teil war das Debuggen. Es hat mir zuerst viel Mühe bereitet den Fehler überhaupt zu finden. Als ich ihn gefunden habe war es umso schwieriger eine Lösung zu finden. Da ich keine grossen Kenntnisse hatte habe ich das Internet für C#-Probleme verwendet. Ab und zu habe ich auch am Modul 431 gearbeitet da ich sehr weit hinten her war. (198 Wörter)
+
+
+## Zusammenhang
+Anfangs habe ich stets an nur einem Projekt gleichzeitig gearbeitet. Als ich das erste Mal mit dem Forms angefangen habe, wurde mir schnell klar, dass ich unbedingt Abwechslung oder lange Pausen brauche, damit ich nicht völlig den Verstand verliere, wenn ich es nicht schaffe, den Code zu debuggen. Das Internet sollte man, auch wenn möglich nur zur Hilfe nehmen und nicht für den Command CTRL + C, CTRL + V. Öfters versteht man die Codes gar nicht da sie viel komplizierter geschrieben werden oder in einem Top Lever (oder so). Falls man einen Code kopiert, sollte man ihn zu 100% verstehen, das war mir Anfangs nicht bewusst. Ich habe öfters vieles vom Internet einfach so übernommen und gar nicht wirklich verstanden was da passiert. Das wurde erst richtig zum Problem als der Code nicht so funktioniert hat, wie ich es wollte. Da wurden schnell aus 3 Fehler plötzlich 40.
+
+# Verbesserungen
+Falls ich wieder einen Code kopieren möchte, sollte ich zuerst verstehen um was es geht, falls ich es doch nicht verstehe frage ich den Lehrer. Bei anstrengenden Projekte, bei denen ich eine Pause brauche, gehe ich dann erstmal einen Snack hollen. Nachdem habe ich wieder einen freien Kopf und kann weiter programmieren.
 
 
 
