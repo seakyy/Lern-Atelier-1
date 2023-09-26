@@ -84,7 +84,7 @@ Heute gab es grosser Änderungen. Unser Modul 431 wurde um 2 Wochen verschoben. 
 
 
 
-### Reflexion
+# Reflexion
 
 In der ersten Lernperiode habe ich mit einem einfachen Input, Prozess, Output Programm angefangen was sehr gut funktioniert hat. Nachdem habe ich mich oft mit C# detaillierter auseinandergesetzt. Ich habe gelernt für was und wie man Arrays einsetzt. Diese habe ich dann später oft in meinem Tic Tac Toe Game gebraucht, um es übersichtlicher zu machen. Auf die Idee ein Game zu programmieren ohne grosse Vorkenntnisse bin ich erst gekommen, als ich gesehen habe das meine Mitschüler einen Taschenrechner programmieren mit Windows Forms. Ich habe einen ganzen Vormittag damit verbracht ein GUI für mein Game zu erstellen. Das war an sich nicht so schwierig da man die Elemente nur hineinziehen musste. Was aber herausfordernd war, waren die Events den einzelnen Buttons zuzuweisen und zu bestimmen, was sie ausführen. Das Coden war zwar anstrengend aber noch nicht der anstrengendste Teil. Der anstrengendste Teil war das Debuggen. Es hat mir zuerst viel Mühe bereitet den Fehler überhaupt zu finden. Als ich ihn gefunden habe war es umso schwieriger eine Lösung zu finden. Da ich keine grossen Kenntnisse hatte habe ich das Internet für C#-Probleme verwendet. Ab und zu habe ich auch am Modul 431 gearbeitet da ich sehr weit hinten her war. (198 Wörter)
 
@@ -92,7 +92,7 @@ In der ersten Lernperiode habe ich mit einem einfachen Input, Prozess, Output Pr
 ## Zusammenhang
 Anfangs habe ich stets an nur einem Projekt gleichzeitig gearbeitet. Als ich das erste Mal mit dem Forms angefangen habe, wurde mir schnell klar, dass ich unbedingt Abwechslung oder lange Pausen brauche, damit ich nicht völlig den Verstand verliere, wenn ich es nicht schaffe, den Code zu debuggen. Das Internet sollte man, auch wenn möglich nur zur Hilfe nehmen und nicht für den Command CTRL + C, CTRL + V. Öfters versteht man die Codes gar nicht da sie viel komplizierter geschrieben werden oder in einem Top Lever (oder so). Falls man einen Code kopiert, sollte man ihn zu 100% verstehen, das war mir Anfangs nicht bewusst. Ich habe öfters vieles vom Internet einfach so übernommen und gar nicht wirklich verstanden was da passiert. Das wurde erst richtig zum Problem als der Code nicht so funktioniert hat, wie ich es wollte. Da wurden schnell aus 3 Fehler plötzlich 40.
 
-# Verbesserungen
+### Verbesserungen
 Falls ich wieder einen Code kopieren möchte, sollte ich zuerst verstehen um was es geht, falls ich es doch nicht verstehe frage ich den Lehrer. Bei anstrengenden Projekte, bei denen ich eine Pause brauche, gehe ich dann erstmal einen Snack hollen. Nachdem habe ich wieder einen freien Kopf und kann weiter programmieren.
 
 
